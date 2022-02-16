@@ -5,7 +5,8 @@
 
 # 안내
 본 봇은 GiveawayBot의 오픈소스를 이용 하였으며, 코드의 소유권은 [jagrosh](https://github.com/jagrosh) 님 에게 있습니다.  
-추가적으로 해당 봇은 기존 GiveawayBot의 한국 버전이며, 번역 말투가 같이 포함되어 있으니 참고 해 주세요.
+추가적으로 해당 봇은 기존 GiveawayBot의 한국 버전이며, 번역 말투가 같이 포함되어 있으니 참고 해 주세요.  
+원작자의 코드를 보고 싶으시다면 [여기](https://github.com/jagrosh/GiveawayBot) 를 눌러주세요!
 
 # 리드미 관련
 리든미는 언제나 수정 될 수 있습니다.
